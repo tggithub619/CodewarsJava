@@ -16,4 +16,4 @@ public class Is_It_a_number {
 
 }
 
-//
+//https://www.codewars.com/kata/57126304cdbf63c6770012bd/solutions/java
