@@ -1,6 +1,7 @@
 public class altERnaTIng_cAsE_ALTerNAtiNG_CaSe {
 
     //https://www.codewars.com/kata/56efc695740d30f963000557/solutions/java
+    //test
 
     public class StringUtils {
         public static String toAlternativeString(String string) {
