@@ -2,7 +2,7 @@ public class BeginnerSeries2Clock {
 
     public static int Past(int h, int m, int s)     {
 
-       return (h *3600 + m * 60 +s) *1000;;
+       return (h *3600 + m * 60 +s) *1000;
     }
 
     public static void main(String[] args) {
