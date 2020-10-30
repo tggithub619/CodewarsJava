@@ -20,6 +20,6 @@ import java.util.Arrays;
 //        System.out.println(Arrays.toString(Kata.invert(new int[]{1, 2, 3, 4, 5})));
 //        System.out.println(Arrays.toString(Kata.invert(new int[]{1, -2, 3, -4, 5})));
 //        System.out.println(Arrays.toString(Kata.invert(new int[]{0})));
-
-    }
-}}
+//
+//    }
+//}}
