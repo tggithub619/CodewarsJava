@@ -15,6 +15,10 @@ public class NumberofDecimalDigits {
 
     }
 
+//    public static int Digits(long n) {
+//        return Long.toString(n).length();
+//    }
+
     public static void main(String[] args) {
         System.out.println(Digits(5l));
         System.out.println(Digits(12345l));
