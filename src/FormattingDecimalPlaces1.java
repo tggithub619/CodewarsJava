@@ -6,8 +6,6 @@ public class FormattingDecimalPlaces1 {
         if (n > 0)
             return Math.floor(n * 100) / 100;
         return Math.ceil(n * 100) / 100;
-
-
     }
 
 //    public static double twoDecimalPlaces(double number)
@@ -21,5 +19,10 @@ public class FormattingDecimalPlaces1 {
 //        return Double.valueOf(arr[0] + "." + arr[1].substring(0, 2));
 //    }
 
+
+    public static void main(String[] args) {
+        System.out.println( twoDecimalPlaces(10.1289767789));
+        System.out.println( twoDecimalPlaces(-7488.83485834983));
+    }
 
 }
